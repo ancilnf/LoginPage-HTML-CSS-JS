@@ -4,7 +4,7 @@ body {
   --color-secondary: #252c6a;
   --color-error: #cc3333;
   --color-success: #4bb544;
-  --border-radius: 4px;
+  --border-radius: 5px;
 
   margin: 0;
   height: 100vh;
@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   font-size: 18px;
-  background: url(nbackground.jpg);
+  background: url(backgrounds/background1.jpg);
   background-size: cover;
 }
 
